@@ -2,7 +2,7 @@
 
 **Proximity radars for Minecraft.** Detect players inside a configurable perimeter and alert your allies remotely — wherever they are.
 
-[![Latest release](https://img.shields.io/github/v/release/SamuelReal/radarzone-mod?label=latest%20release&color=brightgreen&logo=github)](../../releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/SamuelReal/radarzone-mc-mod?label=latest%20release&color=brightgreen&logo=github)](https://github.com/SamuelReal/radarzone-mc-mod/releases/latest)
 [![Donate with PayPal](https://img.shields.io/badge/PayPal-donate-00457C?logo=paypal&logoColor=white)](https://paypal.me/samuelrealrguez)
 
 
@@ -124,10 +124,10 @@ Want RadarZone in your language? See [Contributing](#contributing).
 
 Get the **latest stable version**:
 
-[![Latest release](https://img.shields.io/github/v/release/SamuelReal/radarzone-mod?label=latest%20release&color=brightgreen&logo=github)](../../releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/SamuelReal/radarzone-mc-mod?label=latest%20release&color=brightgreen&logo=github)](https://github.com/SamuelReal/radarzone-mc-mod/releases/latest)
 
 You can browse every other version, along with its changelog, on the
-**[Releases](../../releases)** section.
+**[Releases](https://github.com/SamuelReal/radarzone-mc-mod/releases)** section.
 
 ## Contributing & Feedback
 
